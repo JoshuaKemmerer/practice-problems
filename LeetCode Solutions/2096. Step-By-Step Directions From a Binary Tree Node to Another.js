@@ -138,4 +138,8 @@ Expected:
 2
 1
 
+Accepted Submission Results:
+
+Runtime: 306 ms, faster than 88.39% of JavaScript online submissions for Step-By-Step Directions From a Binary Tree Node to Another.
+Memory Usage: 109.6 MB, less than 59.35% of JavaScript online submissions for Step-By-Step Directions From a Binary Tree Node to Another.
 */
